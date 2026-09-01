@@ -1,6 +1,6 @@
 # Todos Spring Boot Backend
 
-Proyecto Spring Boot (Java 17, Spring Boot 3.x) con una API REST CRUD para "todos" usando H2 en memoria.
+Proyecto Spring Boot (Java 17, Spring Boot 3.x) con una API REST CRUD para "todos" usando PostgreSQL .
 
 Ejecutar:
 
